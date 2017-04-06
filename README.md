@@ -1,0 +1,2 @@
+# kpstrong
+Karplus-strong implementation
